@@ -2,7 +2,7 @@ export type Language = 'en' | 'my';
 
 export const translations = {
   en: {
-    appName: "EquiLog Journal",
+    appName: "Trade Journal",
     appSubtitle: "Geometric Portfolio Ledger",
     recordTrade: "Record Trade",
     resetData: "Reset Data",
