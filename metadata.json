@@ -1,0 +1,6 @@
+{
+  "name": "Trading Journal",
+  "description": "A comprehensive personal trading log and metric tracker to record trades, analyze psychological state, and unlock AI-powered performance insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
